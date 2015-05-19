@@ -26,16 +26,40 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.75">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <marker date="1432057022000" expanded="true" signature="240:1869" placeholder="..." />
+                <marker date="1432057022000" expanded="true" signature="1884:2378" placeholder="..." />
+                <marker date="1432057022000" expanded="true" signature="1907:2369" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5-localStorage-Events.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5-localStorage-Events.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.25">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5-localStorage-Events.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5-localStorage-Events.html">
+      <file leaf-file-name="6-web-workers.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6-web-workers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41095892">
-              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/q.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.53424656">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -117,6 +141,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/5-localStorage.html" />
         <option value="$PROJECT_DIR$/5-localStorage-Events.html" />
+        <option value="$PROJECT_DIR$/6-web-workers.html" />
+        <option value="$PROJECT_DIR$/q.html" />
       </list>
     </option>
   </component>
@@ -187,6 +213,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -296,7 +325,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.75">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1432057022000" expanded="true" signature="240:1869" placeholder="..." />
+            <marker date="1432057022000" expanded="true" signature="1884:2378" placeholder="..." />
+            <marker date="1432057022000" expanded="true" signature="1907:2369" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -339,8 +372,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5-localStorage-Events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41095892">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        <state vertical-scroll-proportion="-11.25">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-web-workers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53424656">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding />
         </state>
       </provider>
