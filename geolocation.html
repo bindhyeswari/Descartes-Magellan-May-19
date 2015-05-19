@@ -7,7 +7,13 @@
 
         // reverse geocode api
 
+        document.addEventListener('DOMContentLoaded', function () {
 
+            navigator.geolocation.getCurrentPosition(function (position) {
+                console.log(position);
+            });
+
+        });
 
 
     </script>
