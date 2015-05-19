@@ -18,6 +18,8 @@
             console.log(e);
         });
 
+        worker.postMessage(500000);
+
 
         document.addEventListener('DOMContentLoaded', function () {
             document.querySelector('button').addEventListener('click', function () {
