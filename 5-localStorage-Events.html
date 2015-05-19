@@ -7,16 +7,19 @@
 
         window.addEventListener('storage', function (e) {
             console.log(e);
+            document.querySelector('#url').innerHTML = e.url;
+            document.querySelector('#key').innerHTML = e.key;
+            document.querySelector('#value').innerHTML = e.newValue;
         });
 
     </script>
 </head>
 <body>
-<input type="text" placeholder="key"/>
-<input type="text" placeholder="value, press enter to save"/>
 <div id="results">
     <h1>List of key value pairs</h1>
-    <em>Close and open page to see persisted data</em>
+    <em>The changes were caused by: <span id="url"></span></em>
+    <em>The key updated: <span id="key"></span> </em>
+    <em>New value for the key: <span id="value"></span></em>
     <ul>
         <li></li>
     </ul>
